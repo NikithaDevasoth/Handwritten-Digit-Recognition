@@ -33,6 +33,10 @@ Open Handwritten Digit Recognition.ipynb in Jupyter Notebook or VS Code and run 
 This project uses the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), which contains 70,000 images of handwritten digits (0–9), each 28x28 pixels.
 7. Output Screenshot
 [output.png] refer it
+👩‍💻 Author
+Nikitha Devasoth
+📃 License
+This project is for educational purposes.
 
 
 
